@@ -1,0 +1,11 @@
+h1.name {
+    font-size: 100px;
+    font-weight: 800;
+    display: inline-block;
+  }
+  
+  #strike {
+    text-decoration: line-through;
+    text-decoration-color: red;
+    display: inline;
+  }
